@@ -1,0 +1,3 @@
+admin:
+    usuario = franco
+    pass = 12345
